@@ -1,3 +1,3 @@
 require("prototypes.resources")
 require("prototypes.data-updates")
-require("player.inventory")
+data.raw["player"]["player"].inventory_size = 20
