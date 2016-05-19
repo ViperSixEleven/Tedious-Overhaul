@@ -1,3 +1,3 @@
---Changes the inventory size from 60 to 120
+--Changes the inventory size
 
 data.raw["player"]["player"].inventory_size = 20
