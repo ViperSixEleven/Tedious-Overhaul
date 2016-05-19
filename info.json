@@ -1,0 +1,11 @@
+
+{
+  "name": "TWMod",
+  "version": "1.1.1",
+  "title": "TweakMod",
+  "author": "John Ripley",
+  "contact": "seaturtle5890@gmail.com",
+  "homepage": "http://www.factorioforums.com/forum/viewtopic.php?f=14&t=12991",
+  "description": "John Ripley's Tweaks",
+  "dependencies": ["base >= 0.11.0"]
+}
