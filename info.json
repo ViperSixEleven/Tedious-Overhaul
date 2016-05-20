@@ -7,5 +7,5 @@
   "contact": "email@email.com",
   "homepage": "https://github.com/ViperSixEleven/ViperOverhaul/releases",
   "description": "Viper Overhaul makes Factorio way harder to accomplish",
-  "dependencies": ["base >= 0.12.20"]
+  "dependencies": ["base >= 0.12.20","? push dependency1","? push dependency2","? push dependency3","? push dependency4","? push dependency5","? push dependency6","? push dependency7","? push dependency8"]
 }
