@@ -1,6 +1,6 @@
 --Stack size changer
 
-local StackSize = 10
+local StackSize = 20
 for _,dat in pairs(data.raw) do
    for _,items in pairs(dat) do
       if items.stack_size and items.stack_size>1 then
